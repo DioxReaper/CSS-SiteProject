@@ -1,0 +1,21 @@
+
+
+
+body {
+    /* me editting the background to make the text effects look better*/
+    background-color: rgb(80, 20, 20);
+  }
+
+
+p{
+    /*the beginning of me editting the text*/
+	color: #0d8add;
+
+	font-family: times new roman, arial; 
+        text-align: center;
+        color: #0d8add;
+        letter-spacing: .15em; /*the spacing creates a dramatic effect*/
+        text-shadow: #8dccf7 20px 0 15px; /* shadow gives a light effect around the text*/
+        font-size: large;
+        text-decoration: line-through;/* line through gives it an ominous idea*/
+      }
